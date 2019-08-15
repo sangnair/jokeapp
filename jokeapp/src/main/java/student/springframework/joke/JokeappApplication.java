@@ -1,4 +1,4 @@
-package student.springframework.joke.jokeapp;
+package student.springframework.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
